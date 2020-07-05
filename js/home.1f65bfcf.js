@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["home"],{bb51:function(o,e,t){"use strict";t.r(e);var l=function(){var o=this,e=o.$createElement,l=o._self._c||e;return l("div",{staticClass:"home"},[l("img",{attrs:{alt:"Vue logo",src:t("cf05")}}),l("HelloWorld",{attrs:{msg:"Welcome to Your Vue.js App"}})],1)},n=[],s=t("fdab"),a={name:"Home",components:{HelloWorld:s["a"]}},c=a,r=t("2877"),u=Object(r["a"])(c,l,n,!1,null,null,null);e["default"]=u.exports},cf05:function(o,e,t){o.exports=t.p+"img/logo.82b9c7a5.png"}}]);
+//# sourceMappingURL=home.1f65bfcf.js.map
